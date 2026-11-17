@@ -1,0 +1,75 @@
+.card{
+    height:1010px;
+    width:1100px;
+    background-color:skyblue;
+    border: 10px solid gold;
+    padding-top:1px;
+    padding-right:1%;
+    padding-left:1%;
+    padding-bottom: 20px;
+    margin-bottom: 4px;
+ 
+
+}
+
+h1{
+    color:blue;
+    font-size:83px;
+    font-display:block;
+    font-variant: unicaps;
+    text-decoration: dashed black underline;
+}
+
+
+h2{
+    color:brown;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-display:block;
+    font-variant: unicaps;
+    text-align: center;
+   
+}
+
+img{
+    height:520px;
+    width:650px;
+    float: left;
+    margin-left: 10px;
+    margin-right:13px;
+    margin-top:15px;
+    border-radius: 7%;
+    border: 8px solid brown;
+}
+
+audio{
+    transform:scale(1.7);
+    margin-left:100px;
+    margin-top: 20px ;
+}
+
+p{
+    color:black;
+    text-align:justify;
+    font-family:"Mozilla Headline",sans-serif ;
+    font-size: xx-large;
+    font-display: block;
+    text-align: justify;
+   word-break: break-word;
+   hyphens: auto;
+}
+button{
+    height:50px;
+    width:200px;
+    background-color:lightgrey;
+    text-align: center;
+    font-size:20px;
+    font-style:italic;
+    font-family:"Isometra",'Open Sans', 'Helvetica Neue', sans-serif;
+
+ 
+}
+
+button:hover{
+    background-color:rgb(236, 13, 51);
+}
